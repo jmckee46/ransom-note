@@ -23,7 +23,6 @@ func checkMagazine(magazine []string, note []string) {
 		}
 	}
 	fmt.Println("Yes")
-	fmt.Println(magMap)
 }
 
 func main() {}
